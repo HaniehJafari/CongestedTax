@@ -1,0 +1,40 @@
+﻿{
+   "ContextClassName": "FintranetContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": null,
+   "ProjectRootNamespace": "Models",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[MaximumDailyTax]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TollFees]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TollFreeDates]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TollFreeVehicles]",
+         "ObjectType": 0
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseNodaTime": false,
+   "UseSpatial": false
+}
